@@ -1,1 +1,1 @@
-# whiteboard-chat
+# Whiteboard
